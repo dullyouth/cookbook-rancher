@@ -6,5 +6,5 @@ description 'Installs/Configures rancher'
 long_description 'Installs/Configures rancher'
 version '0.1.1'
 
-depends 'docker', '~> 0.37.0'
+depends 'docker', '~> 2.13.10'
 depends 'chef-sugar', '~> 3.1.0'
